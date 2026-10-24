@@ -1,0 +1,10 @@
+com\signal\inference\contract\InferenceResult.class
+com\signal\inference\engine\ExchangeService.class
+com\signal\inference\api\InferenceController.class
+com\signal\inference\Application.class
+com\signal\inference\contract\InferenceResult$Usage.class
+com\signal\inference\provider\MockProvider.class
+com\signal\inference\contract\ProviderDescriptor.class
+com\signal\inference\engine\InferenceProvider.class
+com\signal\inference\provider\ProviderConfiguration.class
+com\signal\inference\contract\InferenceRequest.class

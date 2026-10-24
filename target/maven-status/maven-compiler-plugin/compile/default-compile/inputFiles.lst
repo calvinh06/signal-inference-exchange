@@ -1,0 +1,9 @@
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\api\InferenceController.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\Application.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\contract\InferenceRequest.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\contract\InferenceResult.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\contract\ProviderDescriptor.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\engine\ExchangeService.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\engine\InferenceProvider.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\provider\MockProvider.java
+C:\Users\calvinHarmon\IdeaProjects\signal-inference-exchange\src\main\java\com\signal\inference\provider\ProviderConfiguration.java

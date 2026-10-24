@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: signal-inference-exchange
+
+server:
+  port: 8080
+
+signal:
+  inference:
+    preferred-providers:
+      chat: mock-economy
+      reasoning: mock-advanced
+    providers:
+      mock-economy:
+        enabled: true
+        model: signal-small
+        capabilities: [chat, summarize]
+        priority: 10
+        input-micro-usd-per-million: 150000
+        output-micro-usd-per-million: 600000
+      mock-advanced:
+        enabled: true
+        model: signal-large
+        capabilities: [chat, reasoning, summarize]
+        priority: 20
+        input-micro-usd-per-million: 2000000
+        output-micro-usd-per-million: 8000000
